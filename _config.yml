@@ -134,13 +134,11 @@ content:
         sub_title: Senior Data Engineer
         caption: September 2019 - Oct 2022
         description: |
-          
-          
-        - Led a **cross-functional team** of 10 through major project releases, achieving 100% on-time deliveries by demonstrating **strong leadership, project management, and communication skills** while fostering collaboration and accountability across teams.  
-        - **Proactively diagnosed** and resolved **critical data quality issues** affecting quarterly financial summary reports by processing 60 million daily transactional records across 3 years of historical data in just 1 month. **Automated data processing** using self-trigger mechanisms, implemented **rigorous data quality checks**, and established **real-time email notifications** for stakeholders to ensure timely updates and report accuracy.
-        - **Successfully upgraded** a monolithic data processing pipeline to a **distributed system** using Spark, Minio, and Apache NiFi for monthly payment reports, reducing data processing time from 12 hours to just 2 hours. Demonstrated **efficiency in system optimization** and **data flow automation** to streamline operations.
-        - **Redesigned** the global debit data pipeline, separating it into two distinct pipelines for India and global operations, ensuring compliance with India’s local data storage laws. Led **stakeholder discussions**, performed an **in-depth analysis** of the existing systems, resolved **complex data integrity challenges**, and provided **user training** to ensure seamless adoption of the new system.
-        - Contributed to the **migration initiative** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, playing a pivotal role in transforming the organization's data infrastructure before relocating to the US.
+          Led a **cross-functional team** of 10 through major project releases, achieving 100% on-time deliveries by demonstrating **strong leadership, project management, and communication skills** while fostering collaboration and accountability across teams.  
+          **Proactively diagnosed** and resolved **critical data quality issues** affecting quarterly financial summary reports by processing 60 million daily transactional records across 3 years of historical data in just 1 month. **Automated data processing** using self-trigger mechanisms, implemented **rigorous data quality checks**, and established **real-time email notifications** for stakeholders to ensure timely updates and report accuracy.
+          **Successfully upgraded** a monolithic data processing pipeline to a **distributed system** using Spark, Minio, and Apache NiFi for monthly payment reports, reducing data processing time from 12 hours to just 2 hours. Demonstrated **efficiency in system optimization** and **data flow automation** to streamline operations.
+          **Redesigned** the global debit data pipeline, separating it into two distinct pipelines for India and global operations, ensuring compliance with Indias local data storage laws. Led **stakeholder discussions**, performed an **in-depth analysis** of the existing systems, resolved **complex data integrity challenges**, and provided **user training** to ensure seamless adoption of the new system.
+          Contributed to the **migration initiative** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, playing a pivotal role in transforming the organization's data infrastructure before relocating to the US.
 
       - layout: left
         border: weak
