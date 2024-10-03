@@ -134,14 +134,24 @@ content:
         sub_title: Senior Data Engineer
         caption: September 2019 - Oct 2022
         description: |
-          Led a **cross-functional team** of 10 through major project releases, achieving 100% on-time deliveries by demonstrating **strong leadership, project management, and communication skills** while fostering collaboration and accountability across teams.  
-          **Proactively diagnosed** and resolved **critical data quality issues** affecting quarterly financial summary reports by processing 60 million daily transactional records across 3 years of historical data in just 1 month. **Automated data processing** using self-trigger mechanisms, implemented **rigorous data quality checks**, and established **real-time email notifications** for stakeholders to ensure timely updates and report accuracy.
+          - "Led a **cross-functional team** of 10 through major project releases, demonstrating **strong leadership** by fostering collaboration, accountability, and effective communication, resulting in 100% on-time project deliveries."
 
-          **Successfully upgraded** a monolithic data processing pipeline to a **distributed system** using Spark, Minio, and Apache NiFi for monthly payment reports, reducing data processing time from 12 hours to just 2 hours. Demonstrated **efficiency in system optimization** and **data flow automation** to streamline operations.
+          - "Proactively diagnosed and resolved **critical data quality issues**, leveraging **technical expertise** to process 60 million daily transactional records over 3 years within 1 month. Automated data processing with **innovative self-trigger mechanisms**, integrated **rigorous data quality checks**, and established **real-time notifications** to keep stakeholders informed."
 
-          **Redesigned** the global debit data pipeline, separating it into two distinct pipelines for India and global operations, ensuring compliance with Indias local data storage laws. Led **stakeholder discussions**, performed an **in-depth analysis** of the existing systems, resolved **complex data integrity challenges**, and provided **user training** to ensure seamless adoption of the new system.
+          - "Successfully upgraded a **monolithic data pipeline** to a **distributed system** using **Spark**, **Minio**, and **Apache NiFi**, demonstrating **technical innovation** that reduced data processing time from 12 hours to just 2 hours. Optimized system performance through **data flow automation** and improved operational efficiency."
 
-          Contributed to the **migration initiative** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, playing a pivotal role in transforming the organization's data infrastructure before relocating to the US.
+          - "Redesigned the global debit data pipeline, separating it into two pipelines for India and global operations to ensure compliance with local data storage laws. Led **stakeholder discussions**, performed **in-depth system analysis**, resolved **complex data integrity challenges**, and provided **user education** to ensure smooth adoption of the new pipelines."
+
+          - "Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US."
+        technical_skills:
+          - **Data Processing**: Spark, Apache NiFi, Minio, Syncsort, pig
+          - **Database**: SQL, Stored Procedures, Netezza, HIVE, Oracle
+          - **Automation**: Batch scheduler, cron
+          - **Cloud Technologies**: AWS
+          - **Data Quality**: Data Quality Checks, Real-Time Notifications
+          - **Data Pipeline**: Distributed Data Pipelines, Monolithic to Distributed Migration
+          - **Data Flow Optimization**: Spark-based Data Flow, System Optimization
+          - **Collaboration Tools**: Stakeholder Discussions, User Training
 
       - layout: left
         border: weak
