@@ -54,6 +54,7 @@ content:
           Real Estate Market Trend Analysis: Identifying Cities with Declining Property Listing Prices.
         description: |
           This is a data analysis project where I acquired the data through web-scrapping and cleaned it with the python-pandas for the exploratory data analysis.
+          
           Goal of this project was to identify the current market trends for better investment opportunities in housing, unaffordable housing situtaion and safe haven cities still showing promising trends.
           This allowed us to have discussion on the market sentiment backed by data instead of gut feel, which is really important.
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>statistics</mark> <mark>Visualization</mark> and <mark>web-scrapping</mark>.
