@@ -83,10 +83,10 @@ content:
           
           Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
       - layout: top-middle
-        title: Car Price Prediction - Regression 
+        title: Car Price Prediction - Regression - Kaggle Competition
         link: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
         additional_links:
-          - title: Car Price Prediction
+          - title: Car Price Prediction - Regression - Kaggle Competition
             icon: fab fa-github
             url: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
         quote: >
@@ -104,23 +104,42 @@ content:
           
           Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
 
+      - layout: top-middle
+        title: Mushroom Binary Classification - Kaggle Competition 
+        link: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+        additional_links:
+          - title: Mushroom Binary Classification
+            icon: fab fa-github
+            url: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+        quote: >
+          Predicting Poisonous and Edible Mushrooms
+        description: |
+          <strong>Ranked 544 on private leaderboard on Kaggle amount 2422 entries.</strong>
+
+          I developed a machine learning model to predict if mushroom is poisonous or edible based on the stem root, flower size, fin size. 
+          
+          This was part of a Kaggle project where I utilized an LLM-generated dataset and tested multiple models, ultimately LGBMClassifier with best hypertunning parameters. 
+          This project provided valuable experience in advanced modeling techniques.
+          
+          Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMLGBMClassifier</mark>
+          
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
+
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Lead Frontend Software Engineer
-        caption: July 2021 - Present
+        title: Mastercard
+        sub_title: Senior Data Engineer
+        caption: September 2019 - Oct 2022
         description: |
-          Taken accountability for the frontend of the payments product area within a commercial banking platform, becoming a go to for knowledge and technical decisions.
-
-          Currently developing a new frontend architecture transforming the current monolithic frontend application into a scalable modular application with micro-frontends
-          using Webpack Module Federation. This has been a great experience to develop a new workflow for developers to develop and release code and have input in all aspects
-          of the development workflow.
-
-          I have also been a key part of our frontend interview provess, I have worked to improve our interview process including writing new code tests, whilst interviewing
-          candidates across multiple countries.
+          
+        - Led a **cross-functional team** of 10 through major project releases, achieving 100% on-time deliveries by demonstrating **strong leadership, project management, and communication skills** while fostering collaboration and accountability across teams.  
+        - **Proactively diagnosed** and resolved **critical data quality issues** affecting quarterly financial summary reports by processing 60 million daily transactional records across 3 years of historical data in just 1 month. **Automated data processing** using self-trigger mechanisms, implemented **rigorous data quality checks**, and established **real-time email notifications** for stakeholders to ensure timely updates and report accuracy.
+        - **Successfully upgraded** a monolithic data processing pipeline to a **distributed system** using Spark, Minio, and Apache NiFi for monthly payment reports, reducing data processing time from 12 hours to just 2 hours. Demonstrated **efficiency in system optimization** and **data flow automation** to streamline operations.
+        - **Redesigned** the global debit data pipeline, separating it into two distinct pipelines for India and global operations, ensuring compliance with India’s local data storage laws. Led **stakeholder discussions**, performed an **in-depth analysis** of the existing systems, resolved **complex data integrity challenges**, and provided **user training** to ensure seamless adoption of the new system.
+        - Contributed to the **migration initiative** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, playing a pivotal role in transforming the organization's data infrastructure before relocating to the US.
 
       - layout: left
         border: weak
