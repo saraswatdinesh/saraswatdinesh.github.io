@@ -140,31 +140,22 @@ content:
           **Successfully upgraded** a monolithic data processing pipeline to a **distributed system** using Spark, Minio, and Apache NiFi for monthly payment reports, reducing data processing time from 12 hours to just 2 hours. Demonstrated **efficiency in system optimization** and **data flow automation** to streamline operations.
 
           **Redesigned** the global debit data pipeline, separating it into two distinct pipelines for India and global operations, ensuring compliance with Indias local data storage laws. Led **stakeholder discussions**, performed an **in-depth analysis** of the existing systems, resolved **complex data integrity challenges**, and provided **user training** to ensure seamless adoption of the new system.
-          
+
           Contributed to the **migration initiative** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, playing a pivotal role in transforming the organization's data infrastructure before relocating to the US.
 
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Frontend Software Engineer
-        caption: August 2017 - July 2021
+        title: Exusia
+        sub_title: Senior Consultant
+        caption: February 2017 - September 2019
         description: |
-          Working at NatWest as a front end engineer focusing mostly on a corporate banking product called Bankline.
-          Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-          work with the PO defining what we are building.
+            - "Implemented a **stored procedure-driven solution** to efficiently retrieve critical data from the claims database, reducing SQL execution time from **45 minutes to 30 seconds**. Demonstrated **strong technical proficiency** in SQL optimization and **problem-solving skills** to streamline processes."
 
-          I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-          that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-          helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
-
-          Last year I took the lead on rebuilding the login journey to our application. I worked with the architects and designers to create something that would
-          be fit for purpose and be easy to maintain for years to come. I then built this to a high standard which lead to a seamless switch over from the previous
-          system with no issues. More recently I have acted as a consultant to external teams and application architects to advise on how we should be building new
-          functionality within our application. I have also built reusable components to the same standards as opensource libraries which have been used by different teams across the bank.
-
-          I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-          in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service
-          to the customers while also developing to the highest standards.
+            - "Designed and documented comprehensive **test cases** after **collaborative discussions** with onshore stakeholders for a healthcare client, ensuring accurate alignment with business requirements and improving testing efficiency."
+            
+            - "Spearheaded the development of an **SQL training module** for new graduate students, creating **structured coursework** and conducting multiple **hands-on training sessions**, fostering **technical skill development** for entry-level analysts."
+            
+            - "Actively contributed to **recruitment initiatives** by participating in the hiring process for both **fresh and lateral talent**, showcasing strong **interpersonal skills** and commitment to team growth.
 
       - layout: left
         border: weak
