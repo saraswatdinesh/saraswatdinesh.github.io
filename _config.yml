@@ -135,6 +135,7 @@ content:
         caption: September 2019 - Oct 2022
         description: |
           
+          
         - Led a **cross-functional team** of 10 through major project releases, achieving 100% on-time deliveries by demonstrating **strong leadership, project management, and communication skills** while fostering collaboration and accountability across teams.  
         - **Proactively diagnosed** and resolved **critical data quality issues** affecting quarterly financial summary reports by processing 60 million daily transactional records across 3 years of historical data in just 1 month. **Automated data processing** using self-trigger mechanisms, implemented **rigorous data quality checks**, and established **real-time email notifications** for stakeholders to ensure timely updates and report accuracy.
         - **Successfully upgraded** a monolithic data processing pipeline to a **distributed system** using Spark, Minio, and Apache NiFi for monthly payment reports, reducing data processing time from 12 hours to just 2 hours. Demonstrated **efficiency in system optimization** and **data flow automation** to streamline operations.
