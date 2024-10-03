@@ -25,7 +25,9 @@ linkedin_username: dineshrksaraswat
 about_profile_image: images/profile.jpg
 about_content: |
   Hi, I’m Dinesh Saraswat, currently pursuing a Master's in Business Analytics at California State University. With 11 years of professional experience as a Data Professional , I've specialized in the Healthcare, Payment, and Consulting, bringing enthusiasm and expertise to data analysis. 
+
   My analytical and communication skills enable me to decode intricate data driven business problems, aiding in strategic decision-making. Alongside my academic pursuits, I possess proficiency in : 
+
   <mark>Python</mark>
   <mark>PySpark</mark>
   <mark>Distributed data processing</mark>
@@ -56,7 +58,9 @@ content:
           This is a data analysis project where I acquired the data through web-scrapping and cleaned it with the python-pandas for the exploratory data analysis.
           
           Goal of this project was to identify the current market trends for better investment opportunities in housing, unaffordable housing situtaion and safe haven cities still showing promising trends.
+          
           This allowed us to have discussion on the market sentiment backed by data instead of gut feel, which is really important.
+
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>statistics</mark> <mark>Visualization</mark> and <mark>web-scrapping</mark>.
       - layout: top-middle
         title: HealthCare Claims Prediction
@@ -69,10 +73,14 @@ content:
           Predicting claims based on Patient's Profile.
         description: |
           A machine learning model that can help predict the claims amoount of patient for the next fiscal year based on the past hitorical claims data as well as the prevailing health conditions.
+
           We have leveraged the data available for patients last 4 year claims, his/her age, precondition with severity level such as Hyper Tension, High Blood pressure and Diabetes. 
+
           We were able to leverage the EDA to understand the corelation and importance of certain information with the claims amount and based on that we decided to do the feature engineeing and build a decision treee based LGBMRegresssor model, which was able to predict the claims with the mean absolute error of approx 700.
           Its an ongoing process and we will further do the missing data, model testing and more model changes to further the models performance to make it more fast and lean, with less mean absolute error.
+          
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMRegressor</mark> <mark>Decision Tree</mark> <mark>Hyper Parameter Tunning</mark> 
+          
           Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
       - layout: top-middle
         title: Car Price Prediction - Regression 
@@ -85,11 +93,15 @@ content:
           Predicting Used Car prices
         description: |
           <strong>Ranked 179 on public and 390 on private leaderboard on Kaggle amount 4000 entries.</strong>
-          A machine learning model that can help predict the used car prices based on the car's data such as brand, model, engine, milage, fuel, color and accidental information.
-          It was a Kaggle series project where we have leveraged the LLM generated dataset to train the data on the many models to identify the best one which was an ensemble of LGBMRegressor and Catboost.
-          This required lot of data preprocessing, data cleaning, feature engineering and model identication and hyper parameter tunning by leveraging AUTOGLUON library. 
-          We have also weighted methodology to reduce the RMSE error by using the results from two models. It was a great learning project.
+
+          I developed a machine learning model to predict used car prices based on features such as brand, model, engine, mileage, fuel type, color, and accident history. 
+          
+          This was part of a Kaggle project where I utilized an LLM-generated dataset and tested multiple models, ultimately identifying an ensemble of LGBMRegressor and CatBoost as the best performers. 
+          The project involved extensive data preprocessing, cleaning, feature engineering, and model selection, along with hyperparameter tuning using the AUTOGLUON library. 
+          
+          To further reduce RMSE, I implemented a weighted ensemble method, combining the predictions from both models. This project provided valuable experience in advanced modeling techniques.
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMRegressor</mark> <mark>Decision Tree</mark> <mark>Autogluon</mark>
+          
           Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
 
   - title: Experience
