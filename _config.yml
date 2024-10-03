@@ -143,15 +143,16 @@ content:
           - "Redesigned the global debit data pipeline, separating it into two pipelines for India and global operations to ensure compliance with local data storage laws. Led **stakeholder discussions**, performed **in-depth system analysis**, resolved **complex data integrity challenges**, and provided **user education** to ensure smooth adoption of the new pipelines."
 
           - "Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US."
-        technical_skills: |
-          - **Data Processing**: Spark, Apache NiFi, Minio, Syncsort, pig
-          - **Database**: SQL, Stored Procedures, Netezza, HIVE, Oracle
-          - **Automation**: Batch scheduler, cron
-          - **Cloud Technologies**: AWS
-          - **Data Quality**: Data Quality Checks, Real-Time Notifications
-          - **Data Pipeline**: Distributed Data Pipelines, Monolithic to Distributed Migration
-          - **Data Flow Optimization**: Spark-based Data Flow, System Optimization
-          - **Collaboration Tools**: Stakeholder Discussions, User Training
+          
+          - "Tech Stack" : 
+          - **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
+          - **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>, <mark>HIVE</mark>, <mark>Oracle</mark>
+          - **Automation**: <mark>Batch scheduler</mark>, <mark>cron</mark>
+          - **Cloud Technologies**: <mark>AWS</mark>
+          - **Data Quality**: <mark>Data Quality Checks</mark>, <mark>Real-Time Notifications</mark>
+          - **Data Pipeline**: <mark>Distributed Data Pipelines</mark>, <mark>Monolithic to Distributed Migration</mark>
+          - **Data Flow Optimization**: <mark>Spark-based Data Flow</mark>, <mark>System Optimization</mark>
+          - **Collaboration Tools**: <mark>Stakeholder Discussions</mark>, <mark>User Training</mark>
 
       - layout: left
         border: weak
