@@ -24,23 +24,27 @@ linkedin_username: dineshrksaraswat
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  I am an experienced Data Engineer with a proven background in designing and optimizing large-scale data pipelines, cloud integration, and big data analytics. I specialize in leveraging tools like Python, PySpark, AWS, and SQL to drive data-driven solutions for complex business challenges. Currently, I am pursuing a Master’s in Business Analytics at CSU East Bay and seeking new opportunities to apply my expertise in data engineering and analytics:
-  <mark>ES6 Javascript</mark>,
-  <mark>React &amp; Redux</mark>,
-  <mark>Node.js</mark>,
-  <mark>Java</mark>,
-  <mark>MySQL</mark>,
-  <mark>SASS</mark>,
-  <mark>git</mark> and
-  <mark>AWS</mark>.
+  Hi, I’m Dinesh Saraswat, currently pursuing a Master's in Business Analytics at California State University. With 11 years of professional experience as a Data Professional , I've specialized in the Healthcare, Payment, and Consulting, bringing enthusiasm and expertise to data analysis. 
+  My analytical and communication skills enable me to decode intricate data driven business problems, aiding in strategic decision-making. Alongside my academic pursuits, I possess proficiency in : 
+  <mark>Python</mark>,
+  <mark>PySpark</mark>,
+  <mark>Distributed data processing</mark>,
+  <mark>ETL</mark>,
+  <mark>Data Warehouse</mark>,
+  <mark>Data Science</mark>,
+  <mark>Data Analysis</mark>,
+  <mark>R</mark>,
+  <mark>SQL</mark>,
+  <mark>Tableau</mark> and
+  <mark> AWS </mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list
     content:
-      - layout: top-middle
+      - layout: top-left
         border: weak
-        title: Modern Resume Theme
+        title: "Real Estate Market Trend Analysis: Identifying Cities with Declining Property Listing Prices"
         link: sproogen.github.io/modern-resume-theme
         additional_links:
           - title: sproogen/modern-resume-theme
