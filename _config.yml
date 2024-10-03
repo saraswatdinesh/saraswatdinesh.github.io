@@ -143,7 +143,7 @@ content:
           - "Redesigned the global debit data pipeline, separating it into two pipelines for India and global operations to ensure compliance with local data storage laws. Led **stakeholder discussions**, performed **in-depth system analysis**, resolved **complex data integrity challenges**, and provided **user education** to ensure smooth adoption of the new pipelines."
 
           - "Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US."
-        technical_skills:
+        technical_skills: |
           - **Data Processing**: Spark, Apache NiFi, Minio, Syncsort, pig
           - **Database**: SQL, Stored Procedures, Netezza, HIVE, Oracle
           - **Automation**: Batch scheduler, cron
