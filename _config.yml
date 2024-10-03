@@ -42,7 +42,7 @@ content:
   - title: Projects # Title for the section
     layout: list
     content:
-      - layout: top-left
+      - layout: top-middle
         border: weak
         title: "Real Estate Listing Trend Analysis"
         link: https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysise
@@ -57,7 +57,7 @@ content:
           Goal of this project was to identify the current market trends for better investment opportunities in housing, unaffordable housing situtaion and safe haven cities still showing promising trends.
           This allowed us to have discussion on the market sentiment backed by data instead of gut feel, which is really important.
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>statistics</mark> <mark>Visualization</mark> and <mark>web-scrapping</mark>.
-      - layout: top-left
+      - layout: top-middle
         title: itsgoingto.be
         link: www.itsgoingto.be
         additional_links:
