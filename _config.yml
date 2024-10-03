@@ -100,6 +100,7 @@ content:
           The project involved extensive data preprocessing, cleaning, feature engineering, and model selection, along with hyperparameter tuning using the AUTOGLUON library. 
           
           To further reduce RMSE, I implemented a weighted ensemble method, combining the predictions from both models. This project provided valuable experience in advanced modeling techniques.
+          
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMRegressor</mark> <mark>Decision Tree</mark> <mark>Autogluon</mark>
           
           Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
@@ -145,14 +146,14 @@ content:
           - "Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US."
           
           - "Tech Stack" : 
-          - **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
-          - **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>, <mark>HIVE</mark>, <mark>Oracle</mark>
-          - **Automation**: <mark>Batch scheduler</mark>, <mark>cron</mark>
-          - **Cloud Technologies**: <mark>AWS</mark>
-          - **Data Quality**: <mark>Data Quality Checks</mark>, <mark>Real-Time Notifications</mark>
-          - **Data Pipeline**: <mark>Distributed Data Pipelines</mark>, <mark>Monolithic to Distributed Migration</mark>
-          - **Data Flow Optimization**: <mark>Spark-based Data Flow</mark>, <mark>System Optimization</mark>
-          - **Collaboration Tools**: <mark>Stakeholder Discussions</mark>, <mark>User Training</mark>
+          **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
+          **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>, <mark>HIVE</mark>, <mark>Oracle</mark>
+          **Automation**: <mark>Batch scheduler</mark>, <mark>cron</mark>
+          **Cloud Technologies**: <mark>AWS</mark>
+          **Data Quality**: <mark>Data Quality Checks</mark>, <mark>Real-Time Notifications</mark>
+          **Data Pipeline**: <mark>Distributed Data Pipelines</mark>, <mark>Monolithic to Distributed Migration</mark>
+          **Data Flow Optimization**: <mark>Spark-based Data Flow</mark>, <mark>System Optimization</mark>
+          **Collaboration Tools**: <mark>Stakeholder Discussions</mark>, <mark>User Training</mark>
 
       - layout: left
         border: weak
@@ -160,41 +161,33 @@ content:
         sub_title: Senior Consultant
         caption: February 2017 - September 2019
         description: |
-            - "Implemented a **stored procedure-driven solution** to efficiently retrieve critical data from the claims database, reducing SQL execution time from **45 minutes to 30 seconds**. Demonstrated **strong technical proficiency** in SQL optimization and **problem-solving skills** to streamline processes."
+          - "Implemented a **stored procedure-driven solution** to efficiently retrieve critical data from the claims database, reducing SQL execution time from **45 minutes to 30 seconds**. Demonstrated **strong technical proficiency** in SQL optimization and **problem-solving skills** to streamline processes."
 
-            - "Designed and documented comprehensive **test cases** after **collaborative discussions** with onshore stakeholders for a healthcare client, ensuring accurate alignment with business requirements and improving testing efficiency."
-            
-            - "Spearheaded the development of an **SQL training module** for new graduate students, creating **structured coursework** and conducting multiple **hands-on training sessions**, fostering **technical skill development** for entry-level analysts."
-            
-            - "Actively contributed to **recruitment initiatives** by participating in the hiring process for both **fresh and lateral talent**, showcasing strong **interpersonal skills** and commitment to team growth.
+          - "Designed and documented comprehensive **test cases** after **collaborative discussions** with onshore stakeholders for a healthcare client, ensuring accurate alignment with business requirements and improving testing efficiency."
+          
+          - "Spearheaded the development of an **SQL training module** for new graduate students, creating **structured coursework** and conducting multiple **hands-on training sessions**, fostering **technical skill development** for entry-level analysts."
+          
+          - "Actively contributed to **recruitment initiatives** by participating in the hiring process for both **fresh and lateral talent**, showcasing strong **interpersonal skills** and commitment to team growth.
+
+          - "Tech Stack" : 
+          **Collaboration Tools**: <mark>Stakeholder Discussions</mark>
+          **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>
 
       - layout: left
         border: weak
-        title: Simitive
-        sub_title: Full Stack Developer
-        link: www.simitive.com
-        caption: November 2015 - August 2017
+        title: DataMetica
+        sub_title: Senior Consultant
+        caption: June 2016 - January 2017
         description: |
-          During my time at Simitive I worked as part of an agile team building our own in house web based software and
-          also a large scale website for an international client. I gained experience working with a continuous integration
-          workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments. We built most
-          of our software using <mark>Symfony</mark>, <mark>Backbone</mark>, <mark>Marionette</mark>, <mark>Vue</mark> and <mark>Vuex</mark>.
-
-          For 6 months I was working on delivering a standalone web product for an international client that services over
-          600,000 users. This has been built from the ground up using <mark>Symfony</mark> to provide a backend API and
-          <mark>Backbone</mark> for the front end. I also gained a lot of experience with <mark>Elasticsearch</mark> to provide
-          search functionality of millions of entities to the front end. During the project I spent time out of hours
-          communicating with the client, performing deployments and providing support.
-
-          Towards the end of my time at Simitive my role involved assisting with the company's devOps, this included managing
-          our <mark>AWS</mark> infrastructure as well as deploying and migrating sites. I also spent time configuring and maintaining
-          our clients SSO, this mostly involves configuring new clients who are using <mark>AD FS</mark>, <mark>Shibboleth</mark> and
-          <mark>CAS</mark> but also maintaining our software's SSO functionality.
-
+          - "Proactively identified **critical data quality discrepancies** between Oracle transaction fact data and HIVE fact data, uncovering a significant 1% variance, equating to a **$6M difference in sales**. Performed an **in-depth analysis** of data ingestion and generation rules, and **successfully implemented** corrective measures, ensuring **accurate and reliable reporting**."
+          - "Conducted an **in-depth and comprehensive analysis** on the influence of **local weather conditions** and **local events** on the sales performance of specific product categories. Performed **correlation analysis**, **market basket analysis**, and **exploratory data analysis (EDA)** on sales data at the zone level, providing **actionable insights** to optimize marketing​."
+          - "Tech Stack" : 
+          **Analytics**: <mark>Coorelation</mark> <mark>Pandas</mark> <mark>Excel</mark><mark>matplotlib</mark>
+          **Database**: <mark>SQL</mark>, <mark>HIVE</mark>, <mark>AWS</mark>
       - layout: left
         border: weak
-        title: Freelance
-        sub_title: Android Development
+        title: ZS Associates
+        sub_title: Senior Technology Analyst
         caption: September 2016 - October 2016
         description: |
           I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
