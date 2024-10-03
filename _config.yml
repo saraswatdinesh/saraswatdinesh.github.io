@@ -26,15 +26,15 @@ about_profile_image: images/profile.jpg
 about_content: |
   Hi, I’m Dinesh Saraswat, currently pursuing a Master's in Business Analytics at California State University. With 11 years of professional experience as a Data Professional , I've specialized in the Healthcare, Payment, and Consulting, bringing enthusiasm and expertise to data analysis. 
   My analytical and communication skills enable me to decode intricate data driven business problems, aiding in strategic decision-making. Alongside my academic pursuits, I possess proficiency in : 
-  <mark>Python</mark>,
-  <mark>PySpark</mark>,
-  <mark>Distributed data processing</mark>,
-  <mark>ETL</mark>,
-  <mark>Data Warehouse</mark>,
-  <mark>Data Science</mark>,
-  <mark>Data Analysis</mark>,
-  <mark>R</mark>,
-  <mark>SQL</mark>,
+  <mark>Python</mark>
+  <mark>PySpark</mark>
+  <mark>Distributed data processing</mark>
+  <mark>ETL</mark>
+  <mark>Data Warehouse</mark>
+  <mark>Data Science</mark>
+  <mark>Data Analysis</mark>
+  <mark>R</mark>
+  <mark>SQL</mark>
   <mark>Tableau</mark> and
   <mark> AWS </mark>.
 
@@ -44,19 +44,20 @@ content:
     content:
       - layout: top-left
         border: weak
-        title: "Real Estate Market Trend Analysis: Identifying Cities with Declining Property Listing Prices"
-        link: sproogen.github.io/modern-resume-theme
+        title: "Real Estate Listing Trend Analysis"
+        link: https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysise
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
-            url: https://github.com/sproogen/modern-resume-theme
+            url: https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysis
         quote: >
-          A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.
+          Real Estate Market Trend Analysis: Identifying Cities with Declining Property Listing Prices.
         description: |
-          This is a <mark>Jekyll</mark> theme that I have recently created, in fact it is what this resume has been built with.
-          I decided I wanted to learn how to create a fully open source project and thought that this would be the perfect project to do this with.
-          It has allowed me to share something I have created in a way that will be helpful for lots of people while also learning from this myself.
-      - layout: top-middle
+          This is a data analysis project where I acquired the data through web-scrapping and cleaned it with the python-pandas for the exploratory data analysis.
+          Goal of this project was to identify the current market trends for better investment opportunities in housing, unaffordable housing situtaion and safe haven cities still showing promising trends.
+          This allowed us to have discussion on the market sentiment backed by data instead of gut feel, which is really important.
+          Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>statistics</mark> <mark>Visualization</mark> and <mark>web-scrapping</mark>.
+      - layout: top-left
         title: itsgoingto.be
         link: www.itsgoingto.be
         additional_links:
