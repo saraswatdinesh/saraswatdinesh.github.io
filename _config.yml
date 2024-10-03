@@ -45,9 +45,9 @@ content:
       - layout: top-middle
         border: weak
         title: "Real Estate Listing Trend Analysis"
-        link: https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysise
+        link: https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysis
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Real Estate Listing Trend Analysis
             icon: fab fa-github
             url: https://github.com/saraswatdinesh/Real_Estate_Listing_Trend_Analysis
         quote: >
@@ -58,24 +58,38 @@ content:
           This allowed us to have discussion on the market sentiment backed by data instead of gut feel, which is really important.
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>statistics</mark> <mark>Visualization</mark> and <mark>web-scrapping</mark>.
       - layout: top-middle
-        title: itsgoingto.be
-        link: www.itsgoingto.be
+        title: HealthCare Claims Prediction
+        link: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
         additional_links:
-          - title: sproogen/itsgoingto.be
+          - title: HealthCare Claims Prediction
             icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+            url: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
         quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+          Predicting claims based on Patient's Profile.
         description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
-
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+          A machine learning model that can help predict the claims amoount of patient for the next fiscal year based on the past hitorical claims data as well as the prevailing health conditions.
+          We have leveraged the data available for patients last 4 year claims, his/her age, precondition with severity level such as Hyper Tension, High Blood pressure and Diabetes. 
+          We were able to leverage the EDA to understand the corelation and importance of certain information with the claims amount and based on that we decided to do the feature engineeing and build a decision treee based LGBMRegresssor model, which was able to predict the claims with the mean absolute error of approx 700.
+          Its an ongoing process and we will further do the missing data, model testing and more model changes to further the models performance to make it more fast and lean, with less mean absolute error.
+          Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMRegressor</mark> <mark>Decision Tree</mark> <mark>Hyper Parameter Tunning</mark> 
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
+      - layout: top-middle
+        title: Car Price Prediction - Regression 
+        link: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+        additional_links:
+          - title: Car Price Prediction
+            icon: fab fa-github
+            url: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+        quote: >
+          Predicting Used Car prices
+        description: |
+          <strong>Ranked 179 on public and 390 on private leaderboard on Kaggle amount 4000 entries.</strong>
+          A machine learning model that can help predict the used car prices based on the car's data such as brand, model, engine, milage, fuel, color and accidental information.
+          It was a Kaggle series project where we have leveraged the LLM generated dataset to train the data on the many models to identify the best one which was an ensemble of LGBMRegressor and Catboost.
+          This required lot of data preprocessing, data cleaning, feature engineering and model identication and hyper parameter tunning by leveraging AUTOGLUON library. 
+          We have also weighted methodology to reduce the RMSE error by using the results from two models. It was a great learning project.
+          Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMRegressor</mark> <mark>Decision Tree</mark> <mark>Autogluon</mark>
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
 
   - title: Experience
     layout: list
