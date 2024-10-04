@@ -213,7 +213,7 @@ content:
 
           - "Mentored Technology Analysts on **career development paths** and **best practices** at ZS, ensuring alignment with individual career goals while fostering **professional growth** and encouraging **skill enhancement** to achieve long-term success.
          
-          -"Tech Stack :"
+          -"Tech Stack" :
           
             **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
           
@@ -235,7 +235,8 @@ content:
           
           - "Designed, developed, and implemented **highly efficient ETL code** in DataStage, processing airline ARC data to generate **insightful OD pair reports** for merger and acquisition analysis, contributing to strategic decision-making."
 
-          - "Tech Stack: "
+          - "Tech Stack" :
+
             **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
           
             **ETL**: <mark>Informatica</mark> <mark>DataStage</mark>  <mark>SAP BODS</mark>
@@ -254,7 +255,9 @@ content:
           - "Designed, developed, and implemented **efficient ETL code** in IBM DataStage for processing **Workforce Management data** as part of the **Enterprise Data Warehouse**, ensuring seamless data integration and contributing to enhanced operational efficiency."
           
           - Tech Stack:
+            
             **ETL**: <mark>DataStage</mark> 
+            
             **Database**: <mark>Teradata</mark> 
 
   - title: Education
