@@ -177,10 +177,12 @@ content:
         border: weak
         title: DataMetica
         sub_title: Senior Consultant
-        caption: June 2016 - January 2017
+        caption: July 2016 - January 2017
         description: |
           - "Proactively identified **critical data quality discrepancies** between Oracle transaction fact data and HIVE fact data, uncovering a significant 1% variance, equating to a **$6M difference in sales**. Performed an **in-depth analysis** of data ingestion and generation rules, and **successfully implemented** corrective measures, ensuring **accurate and reliable reporting**."
+
           - "Conducted an **in-depth and comprehensive analysis** on the influence of **local weather conditions** and **local events** on the sales performance of specific product categories. Performed **correlation analysis**, **market basket analysis**, and **exploratory data analysis (EDA)** on sales data at the zone level, providing **actionable insights** to optimize marketing​."
+
           - "Tech Stack" : 
           **Analytics**: <mark>Coorelation</mark> <mark>Pandas</mark> <mark>Excel</mark><mark>matplotlib</mark>
           **Database**: <mark>SQL</mark>, <mark>HIVE</mark>, <mark>AWS</mark>
@@ -188,17 +190,25 @@ content:
         border: weak
         title: ZS Associates
         sub_title: Senior Technology Analyst
-        caption: September 2016 - October 2016
+        link: www.zs.com
+        caption: June 2015 - July 2016
         description: |
-          I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
-          this as well as a few other existing issues. This project had a very tight time scale and I was able to complete
-          it in very good time while providing regular updates to the client.
+          - "Successfully **led the initiative** to develop a **scalable data mart solution** for Gilead's clinical trial studies, managing a team of 4 developers. Collaborated closely with stakeholders during **requirement discussions**, and **designed a robust technical architecture** to support **high-volume data processing** and **configurable data quality checks**. Demonstrated **strong leadership** by overseeing the entire solution-building process, ensuring the system's adaptability and efficiency in handling complex data workflows."
 
+          - "Successfully **led a project** to develop a **standardized data profiling engine** that enabled the detection of **data quality trends** in clients' raw data. This initiative significantly reduced costs by minimizing manual efforts required for each implementation, demonstrating **proactive leadership** and **technical innovation** in automating data quality processes."
+
+          - "Mentored Technology Analysts on **career development paths** and **best practices** at ZS, ensuring alignment with individual career goals while fostering **professional growth** and encouraging **skill enhancement** to achieve long-term success.
+         
+          -"Tech Stack :"
+          **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
+          **ETL**: <mark>Informatica</mark>
+          **Database**: <mark>SQL</mark> <mark>Stored Procedures</mark> <mark>Oracle</mark>
+          **Automation**: <mark>Batch scheduler</mark>
       - layout: left
         border: weak
-        title: Nudge Digital
-        sub_title: Full Stack Developer
-        link: www.nudgedigital.co.uk
+        title: ZS Associates
+        sub_title: Technology Analyst
+        link: www.zs.com
         caption: August 2014 - November 2015
         description: |
           While working at Nudge I was able to work on a large number of projects ranging from small Drupal sites to large
