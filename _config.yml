@@ -147,12 +147,19 @@ content:
           
           - "Tech Stack" : 
           **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
+          
           **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>, <mark>HIVE</mark>, <mark>Oracle</mark>
+          
           **Automation**: <mark>Batch scheduler</mark>, <mark>cron</mark>
+          
           **Cloud Technologies**: <mark>AWS</mark>
+          
           **Data Quality**: <mark>Data Quality Checks</mark>, <mark>Real-Time Notifications</mark>
+          
           **Data Pipeline**: <mark>Distributed Data Pipelines</mark>, <mark>Monolithic to Distributed Migration</mark>
+          
           **Data Flow Optimization**: <mark>Spark-based Data Flow</mark>, <mark>System Optimization</mark>
+          
           **Collaboration Tools**: <mark>Stakeholder Discussions</mark>, <mark>User Training</mark>
 
       - layout: left
@@ -170,7 +177,9 @@ content:
           - "Actively contributed to **recruitment initiatives** by participating in the hiring process for both **fresh and lateral talent**, showcasing strong **interpersonal skills** and commitment to team growth.
 
           - "Tech Stack" : 
+          
           **Collaboration Tools**: <mark>Stakeholder Discussions</mark>
+          
           **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>
 
       - layout: left
@@ -184,7 +193,9 @@ content:
           - "Conducted an **in-depth and comprehensive analysis** on the influence of **local weather conditions** and **local events** on the sales performance of specific product categories. Performed **correlation analysis**, **market basket analysis**, and **exploratory data analysis (EDA)** on sales data at the zone level, providing **actionable insights** to optimize marketing​."
 
           - "Tech Stack" : 
+          
           **Analytics**: <mark>Coorelation</mark> <mark>Pandas</mark> <mark>Excel</mark><mark>matplotlib</mark>
+          
           **Database**: <mark>SQL</mark>, <mark>HIVE</mark>, <mark>AWS</mark>
       - layout: left
         border: weak
@@ -200,9 +211,13 @@ content:
           - "Mentored Technology Analysts on **career development paths** and **best practices** at ZS, ensuring alignment with individual career goals while fostering **professional growth** and encouraging **skill enhancement** to achieve long-term success.
          
           -"Tech Stack :"
+          
           **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
+          
           **ETL**: <mark>Informatica</mark>
+          
           **Database**: <mark>SQL</mark> <mark>Stored Procedures</mark> <mark>Oracle</mark>
+          
           **Automation**: <mark>Batch scheduler</mark>
       - layout: left
         border: weak
