@@ -146,21 +146,22 @@ content:
           - "Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US."
           
           - "Tech Stack" : 
-          **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
+            
+            **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
           
-          **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>, <mark>HIVE</mark>, <mark>Oracle</mark>
+            **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>, <mark>HIVE</mark>, <mark>Oracle</mark>
           
-          **Automation**: <mark>Batch scheduler</mark>, <mark>cron</mark>
+            **Automation**: <mark>Batch scheduler</mark>, <mark>cron</mark>
           
-          **Cloud Technologies**: <mark>AWS</mark>
+            **Cloud Technologies**: <mark>AWS</mark>
           
-          **Data Quality**: <mark>Data Quality Checks</mark>, <mark>Real-Time Notifications</mark>
+            **Data Quality**: <mark>Data Quality Checks</mark>, <mark>Real-Time Notifications</mark>
           
-          **Data Pipeline**: <mark>Distributed Data Pipelines</mark>, <mark>Monolithic to Distributed Migration</mark>
+            **Data Pipeline**: <mark>Distributed Data Pipelines</mark>, <mark>Monolithic to Distributed Migration</mark>
           
-          **Data Flow Optimization**: <mark>Spark-based Data Flow</mark>, <mark>System Optimization</mark>
+            **Data Flow Optimization**: <mark>Spark-based Data Flow</mark>, <mark>System Optimization</mark>
           
-          **Collaboration Tools**: <mark>Stakeholder Discussions</mark>, <mark>User Training</mark>
+            **Collaboration Tools**: <mark>Stakeholder Discussions</mark>, <mark>User Training</mark>
 
       - layout: left
         border: weak
@@ -178,9 +179,9 @@ content:
 
           - "Tech Stack" : 
           
-          **Collaboration Tools**: <mark>Stakeholder Discussions</mark>
+            **Collaboration Tools**: <mark>Stakeholder Discussions</mark>
           
-          **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>
+            **Database**: <mark>SQL</mark>, <mark>Stored Procedures</mark>, <mark>Netezza</mark>
 
       - layout: left
         border: weak
@@ -194,9 +195,9 @@ content:
 
           - "Tech Stack" : 
           
-          **Analytics**: <mark>Coorelation</mark> <mark>Pandas</mark> <mark>Excel</mark><mark>matplotlib</mark>
+            **Analytics**: <mark>Coorelation</mark> <mark>Pandas</mark> <mark>Excel</mark><mark>matplotlib</mark>
           
-          **Database**: <mark>SQL</mark>, <mark>HIVE</mark>, <mark>AWS</mark>
+            **Database**: <mark>SQL</mark>, <mark>HIVE</mark>, <mark>AWS</mark>
       - layout: left
         border: weak
         title: ZS Associates
@@ -212,13 +213,13 @@ content:
          
           -"Tech Stack :"
           
-          **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
+            **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
           
-          **ETL**: <mark>Informatica</mark>
+            **ETL**: <mark>Informatica</mark>
           
-          **Database**: <mark>SQL</mark> <mark>Stored Procedures</mark> <mark>Oracle</mark>
+            **Database**: <mark>SQL</mark> <mark>Stored Procedures</mark> <mark>Oracle</mark>
           
-          **Automation**: <mark>Batch scheduler</mark>
+            **Automation**: <mark>Batch scheduler</mark>
       - layout: left
         border: weak
         title: ZS Associates
@@ -226,19 +227,7 @@ content:
         link: www.zs.com
         caption: August 2014 - November 2015
         description: |
-          While working at Nudge I was able to work on a large number of projects ranging from small Drupal sites to large
-          enterprise level applications. I enjoy being able to work with clients to understand and surpass their expectations.
-          At Nudge I was also given the oppertunity to work with all of my core skills and to gain new skills in things
-          such as <mark>Symfony</mark>, <mark>Angular</mark> and <mark>Gulp</mark>. I also worked on a number of <mark>iOS</mark> and
-          <mark>Android</mark> applications.
-
-          During my time at Nudge I was able to help the lead developer with the writing of Technical Specifications and
-          also Project Requirements. I feel this is a useful skill to have as it helps me to become an even more well-rounded
-          developer.
-
-          During the summer I had the opportunity to head to Accra, Ghana and work with the team out there. This was a
-          great opportunity to learn more about the industry in another country but also to allow me to lead their
-          team for a few weeks and gain lots of experience of remote teams.
+          -"Designed "
 
       - layout: left
         title: GWS Media
