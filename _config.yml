@@ -35,6 +35,8 @@ about_content: |
   <mark>Data Warehouse</mark>
   <mark>Data Science</mark>
   <mark>Data Analysis</mark>
+  <mark>Business Analysis</mark>
+  <mark>Project Management</mark>
   <mark>R</mark>
   <mark>SQL</mark>
   <mark>Tableau</mark> and
@@ -84,11 +86,11 @@ content:
           Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
       - layout: top-middle
         title: Car Price Prediction - Regression - Kaggle Competition
-        link: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+        link: https://www.kaggle.com/code/dineshsaraswat/car-price-prediction
         additional_links:
           - title: Car Price Prediction - Regression - Kaggle Competition
             icon: fab fa-github
-            url: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+            url: https://www.kaggle.com/code/dineshsaraswat/car-price-prediction
         quote: >
           Predicting Used Car prices
         description: |
@@ -103,15 +105,15 @@ content:
           
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMRegressor</mark> <mark>Decision Tree</mark> <mark>Autogluon</mark>
           
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://www.kaggle.com/code/dineshsaraswat/car-price-prediction).
 
       - layout: top-middle
         title: Mushroom Binary Classification - Kaggle Competition 
-        link: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+        link: https://www.kaggle.com/code/dineshsaraswat/mushroom-prediction
         additional_links:
           - title: Mushroom Binary Classification
             icon: fab fa-github
-            url: https://github.com/saraswatdinesh/HealthCareClaimsPrediction
+            url: https://www.kaggle.com/code/dineshsaraswat/mushroom-prediction
         quote: >
           Predicting Poisonous and Edible Mushrooms
         description: |
@@ -124,7 +126,7 @@ content:
           
           Tech Stack Used - <mark>python</mark> <mark>pandas</mark> <mark>seaborn</mark> <mark>Machine learning</mark> <mark>LGBMLGBMClassifier</mark>
           
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/saraswatdinesh/HealthCareClaimsPrediction).
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://www.kaggle.com/code/dineshsaraswat/mushroom-prediction).
 
   - title: Experience
     layout: list
@@ -225,53 +227,58 @@ content:
         title: ZS Associates
         sub_title: Technology Analyst
         link: www.zs.com
-        caption: August 2014 - November 2015
+        caption: June 2013 - May 2015
         description: |
-          -"Designed "
+          - "Implemented an **innovative sales forecasting**, **sales alignment**, and **quota reporting solution** for pharmaceutical clients, including Alere and Galderma. This transformative solution enabled enhanced sales management and precise quota alignment based on **real-time**, updated reports, significantly reducing quota assignment and sales compensation determination time from weeks to just a couple of days."
+          
+          - "Designed and implemented **robust ETL pipelines** in Informatica and SAP BODS, efficiently processing sales, quota, forecasting, and territory alignment data for employees to generate comprehensive sales reports for clients such as Johnson & Johnson."
+          
+          - "Designed, developed, and implemented **highly efficient ETL code** in DataStage, processing airline ARC data to generate **insightful OD pair reports** for merger and acquisition analysis, contributing to strategic decision-making."
 
+          - "Tech Stack: "
+            **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
+          
+            **ETL**: <mark>Informatica</mark> <mark>DataStage</mark>  <mark>SAP BODS</mark>
+          
+            **Database**: <mark>SQL</mark> <mark>Teradata</mark> <mark>Oracle</mark>
+            
+            **Reporting**: <mark>Microstrategy</mark>
+            
+            **Automation**: <mark>Batch scheduler</mark>
       - layout: left
-        title: GWS Media
-        sub_title: Web Developer
+        title: Wipro technologies
+        sub_title: Project Engineer
         link: www.gwsmedia.com
-        caption: June 2012 - August 2014
+        caption: October 2011 - May 2013
         description: |
-          I started working for GWS Media part time during my third year at University and continued full time once I had
-          graduated. It was during this role that I learnt many of the fundamentals that I have been building on over
-          the past 3 years. Whilst at GWS I had the opportunity to work with:
-          <mark>Drupal</mark>, <mark>Magento</mark>, <mark>Bootstrap</mark>, <mark>Codeigniter</mark>, <mark>Android</mark> and <mark>iOS</mark>.
-
-          I feel like having the opportunity to use a large range of different things early on in my career has given me
-          the drive to always want to try new tools and frameworks.
+          - "Designed, developed, and implemented **efficient ETL code** in IBM DataStage for processing **Workforce Management data** as part of the **Enterprise Data Warehouse**, ensuring seamless data integration and contributing to enhanced operational efficiency."
+          
+          - Tech Stack:
+            **ETL**: <mark>DataStage</mark> 
+            **Database**: <mark>Teradata</mark> 
 
   - title: Education
     layout: list
     content:
-      - title: Bristol University
-        sub_title: BSc Computer Science
-        caption: 2010 - 2013
+      - title: California State University East Bay
+        sub_title: MS Business Analytics
+        caption: 2023 - 2024
         description: |
-          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
-          we mainly focused on software development and the principles of programming I use a lot of these skills to
-          my advantage in my day to day work.
 
-          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
-          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
-          transport and designing posters to organising a trip to Portugal for over 30 students.
+          - "**Relevant Courses are**:  Data Mining, Big Data, Data Analytics, Advance Analytics, Statistics, DataWarehouse, Regression Analysis, Time Series Analytics, Hypothesis Testing, Data Visualization and Project Management"
+      - title: RGTU, Bhopal , India
+        sub_title: BE, Computer Science and Engineering
+        caption: 2007 - 2011
+        description: |
+
+          - "**Relevant Courses are**:  Java Programming, Data Structure, Mathematics , Physics, Software engineering principles, Operating Systems, Network programming, Linear Algebra"
+
 
   - title: When I'm Not Programming
     layout: text
     content: | # this will include new lines to allow paragraphs
       When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
-      mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
-      rock climbing and playing some rugby. I currently have 2 horses and find this is a great way to get out of the house
-      and taking my mind of things while learing to showjump.
-
-      I'm interested in photography and videography as I like to be creative, this is mainly through sport but
-      I enjoy landscape and abstract photography too. I like to showcase my work on instagram if
-      you would like to take a look - [jameswgrant](https://www.instagram.com/jameswgrant/).
-
-      Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
-      Bristol's indoor climbing centres or down 'The Rec' supporting Bath Rugby.
+      volleyball, pickleball and cricket.
 
 # Footer
 footer_show_references: false
