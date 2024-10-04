@@ -135,19 +135,20 @@ content:
         border: weak
         title: Mastercard
         sub_title: Senior Data Engineer
+        link: https://www.mastercard.co.in/en-in.html
         caption: September 2019 - Oct 2022
         description: |
-          - "Led a **cross-functional team** of 10 through major project releases, demonstrating **strong leadership** by fostering collaboration, accountability, and effective communication, resulting in 100% on-time project deliveries."
+          - Led a **cross-functional team** of 10 through major project releases, demonstrating **strong leadership** by fostering collaboration, accountability, and effective communication, resulting in 100% on-time project deliveries.
 
-          - "Proactively diagnosed and resolved **critical data quality issues**, leveraging **technical expertise** to process 60 million daily transactional records over 3 years within 1 month. Automated data processing with **innovative self-trigger mechanisms**, integrated **rigorous data quality checks**, and established **real-time notifications** to keep stakeholders informed."
+          - Proactively diagnosed and resolved **critical data quality issues**, leveraging **technical expertise** to process 60 million daily transactional records over 3 years within 1 month. Automated data processing with **innovative self-trigger mechanisms**, integrated **rigorous data quality checks**, and established **real-time notifications** to keep stakeholders informed.
 
-          - "Successfully upgraded a **monolithic data pipeline** to a **distributed system** using **Spark**, **Minio**, and **Apache NiFi**, demonstrating **technical innovation** that reduced data processing time from 12 hours to just 2 hours. Optimized system performance through **data flow automation** and improved operational efficiency."
+          - Successfully upgraded a **monolithic data pipeline** to a **distributed system** using **Spark**, **Minio**, and **Apache NiFi**, demonstrating **technical innovation** that reduced data processing time from 12 hours to just 2 hours. Optimized system performance through **data flow automation** and improved operational efficiency.
 
-          - "Redesigned the global debit data pipeline, separating it into two pipelines for India and global operations to ensure compliance with local data storage laws. Led **stakeholder discussions**, performed **in-depth system analysis**, resolved **complex data integrity challenges**, and provided **user education** to ensure smooth adoption of the new pipelines."
+          - Redesigned the global debit data pipeline, separating it into two pipelines for India and global operations to ensure compliance with local data storage laws. Led **stakeholder discussions**, performed **in-depth system analysis**, resolved **complex data integrity challenges**, and provided **user education** to ensure smooth adoption of the new pipelines.
 
-          - "Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US."
+          - Contributed to the **migration** of a mainframe-based data processing pipeline to a **Spark-based distributed system**, utilizing **technical expertise** to support the transformation of the organization's data infrastructure before relocating to the US.
           
-          - "Tech Stack" : 
+          - Tech Stack : 
             
             **Data Processing**: <mark>Spark</mark>, <mark>Apache NiFi</mark>, <mark>Minio</mark>, <mark>Syncsort</mark>, <mark>pig</mark>
           
@@ -169,17 +170,18 @@ content:
         border: weak
         title: Exusia
         sub_title: Senior Consultant
+        link: https://exusia.com
         caption: February 2017 - September 2019
         description: |
-          - "Implemented a **stored procedure-driven solution** to efficiently retrieve critical data from the claims database, reducing SQL execution time from **45 minutes to 30 seconds**. Demonstrated **strong technical proficiency** in SQL optimization and **problem-solving skills** to streamline processes."
+          - Implemented a **stored procedure-driven solution** to efficiently retrieve critical data from the claims database, reducing SQL execution time from **45 minutes to 30 seconds**. Demonstrated **strong technical proficiency** in SQL optimization and **problem-solving skills** to streamline processes.
 
-          - "Designed and documented comprehensive **test cases** after **collaborative discussions** with onshore stakeholders for a healthcare client, ensuring accurate alignment with business requirements and improving testing efficiency."
+          - Designed and documented comprehensive **test cases** after **collaborative discussions** with onshore stakeholders for a healthcare client, ensuring accurate alignment with business requirements and improving testing efficiency.
           
-          - "Spearheaded the development of an **SQL training module** for new graduate students, creating **structured coursework** and conducting multiple **hands-on training sessions**, fostering **technical skill development** for entry-level analysts."
+          - Spearheaded the development of an **SQL training module** for new graduate students, creating **structured coursework** and conducting multiple **hands-on training sessions**, fostering **technical skill development** for entry-level analysts.
           
-          - "Actively contributed to **recruitment initiatives** by participating in the hiring process for both **fresh and lateral talent**, showcasing strong **interpersonal skills** and commitment to team growth.
+          - Actively contributed to **recruitment initiatives** by participating in the hiring process for both **fresh and lateral talent**, showcasing strong **interpersonal skills** and commitment to team growth.
 
-          - "Tech Stack" : 
+          - Tech Stack : 
           
             **Collaboration Tools**: <mark>Stakeholder Discussions</mark>
           
@@ -189,13 +191,14 @@ content:
         border: weak
         title: DataMetica
         sub_title: Senior Consultant
+        link: https://www.datametica.com
         caption: July 2016 - January 2017
         description: |
-          - "Proactively identified **critical data quality discrepancies** between Oracle transaction fact data and HIVE fact data, uncovering a significant 1% variance, equating to a **$6M difference in sales**. Performed an **in-depth analysis** of data ingestion and generation rules, and **successfully implemented** corrective measures, ensuring **accurate and reliable reporting**."
+          - Proactively identified **critical data quality discrepancies** between Oracle transaction fact data and HIVE fact data, uncovering a significant 1% variance, equating to a **$6M difference in sales**. Performed an **in-depth analysis** of data ingestion and generation rules, and **successfully implemented** corrective measures, ensuring **accurate and reliable reporting**.
 
-          - "Conducted an **in-depth and comprehensive analysis** on the influence of **local weather conditions** and **local events** on the sales performance of specific product categories. Performed **correlation analysis**, **market basket analysis**, and **exploratory data analysis (EDA)** on sales data at the zone level, providing **actionable insights** to optimize marketing​."
+          - Conducted an **in-depth and comprehensive analysis** on the influence of **local weather conditions** and **local events** on the sales performance of specific product categories. Performed **correlation analysis**, **market basket analysis**, and **exploratory data analysis (EDA)** on sales data at the zone level, providing **actionable insights** to optimize marketing​.
 
-          - "Tech Stack" : 
+          - Tech Stack : 
           
             **Analytics**: <mark>Coorelation</mark> <mark>Pandas</mark> <mark>Excel</mark><mark>matplotlib</mark>
           
@@ -207,13 +210,13 @@ content:
         link: www.zs.com
         caption: June 2015 - July 2016
         description: |
-          - "Successfully **led the initiative** to develop a **scalable data mart solution** for Gilead's clinical trial studies, managing a team of 4 developers. Collaborated closely with stakeholders during **requirement discussions**, and **designed a robust technical architecture** to support **high-volume data processing** and **configurable data quality checks**. Demonstrated **strong leadership** by overseeing the entire solution-building process, ensuring the system's adaptability and efficiency in handling complex data workflows."
+          - Successfully **led the initiative** to develop a **scalable data mart solution** for Gilead's clinical trial studies, managing a team of 4 developers. Collaborated closely with stakeholders during **requirement discussions**, and **designed a robust technical architecture** to support **high-volume data processing** and **configurable data quality checks**. Demonstrated **strong leadership** by overseeing the entire solution-building process, ensuring the system's adaptability and efficiency in handling complex data workflows.
 
-          - "Successfully **led a project** to develop a **standardized data profiling engine** that enabled the detection of **data quality trends** in clients' raw data. This initiative significantly reduced costs by minimizing manual efforts required for each implementation, demonstrating **proactive leadership** and **technical innovation** in automating data quality processes."
+          - Successfully **led a project** to develop a **standardized data profiling engine** that enabled the detection of **data quality trends** in clients' raw data. This initiative significantly reduced costs by minimizing manual efforts required for each implementation, demonstrating **proactive leadership** and **technical innovation** in automating data quality processes.
 
-          - "Mentored Technology Analysts on **career development paths** and **best practices** at ZS, ensuring alignment with individual career goals while fostering **professional growth** and encouraging **skill enhancement** to achieve long-term success.
+          - Mentored Technology Analysts on **career development paths** and **best practices** at ZS, ensuring alignment with individual career goals while fostering **professional growth** and encouraging **skill enhancement** to achieve long-term success.
          
-          -"Tech Stack" :
+          -Tech Stack :
           
             **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
           
@@ -229,13 +232,13 @@ content:
         link: www.zs.com
         caption: June 2013 - May 2015
         description: |
-          - "Implemented an **innovative sales forecasting**, **sales alignment**, and **quota reporting solution** for pharmaceutical clients, including Alere and Galderma. This transformative solution enabled enhanced sales management and precise quota alignment based on **real-time**, updated reports, significantly reducing quota assignment and sales compensation determination time from weeks to just a couple of days."
+          - Implemented an **innovative sales forecasting**, **sales alignment**, and **quota reporting solution** for pharmaceutical clients, including Alere and Galderma. This transformative solution enabled enhanced sales management and precise quota alignment based on **real-time**, updated reports, significantly reducing quota assignment and sales compensation determination time from weeks to just a couple of days.
           
-          - "Designed and implemented **robust ETL pipelines** in Informatica and SAP BODS, efficiently processing sales, quota, forecasting, and territory alignment data for employees to generate comprehensive sales reports for clients such as Johnson & Johnson."
+          - Designed and implemented **robust ETL pipelines** in Informatica and SAP BODS, efficiently processing sales, quota, forecasting, and territory alignment data for employees to generate comprehensive sales reports for clients such as Johnson & Johnson.
           
-          - "Designed, developed, and implemented **highly efficient ETL code** in DataStage, processing airline ARC data to generate **insightful OD pair reports** for merger and acquisition analysis, contributing to strategic decision-making."
+          - Designed, developed, and implemented **highly efficient ETL code** in DataStage, processing airline ARC data to generate **insightful OD pair reports** for merger and acquisition analysis, contributing to strategic decision-making.
 
-          - "Tech Stack" :
+          - Tech Stack :
 
             **Collaboration Tools**: <mark>Stakeholder Discussions</mark> <mark>Project Planning</mark> <mark>Team Management</mark>
           
@@ -249,10 +252,10 @@ content:
       - layout: left
         title: Wipro technologies
         sub_title: Project Engineer
-        link: www.gwsmedia.com
+        link: https://www.wipro.com/en-IN/overview/
         caption: October 2011 - May 2013
         description: |
-          - "Designed, developed, and implemented **efficient ETL code** in IBM DataStage for processing **Workforce Management data** as part of the **Enterprise Data Warehouse**, ensuring seamless data integration and contributing to enhanced operational efficiency."
+          - Designed, developed, and implemented **efficient ETL code** in IBM DataStage for processing **Workforce Management data** as part of the **Enterprise Data Warehouse**, ensuring seamless data integration and contributing to enhanced operational efficiency.
           
           - Tech Stack:
             
